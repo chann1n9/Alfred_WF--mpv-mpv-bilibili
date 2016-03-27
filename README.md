@@ -10,6 +10,7 @@ An Alfred-workflow for mpv &amp; mpv-bilibili
 4.Python3.0<br />
 5.danmaku2ass<br />
 6.Alfred2 & Powerback<br />
+7.you-get<br />
 
 
 ##TO USE
@@ -17,3 +18,4 @@ An Alfred-workflow for mpv &amp; mpv-bilibili
 1.mpv "The Video URL"<br />
 2.mpb "The Bilibili URL"<br />
 3.mpb av "The Bilibili AV number"<br />
+4.down "The Video URL"<br />
