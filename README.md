@@ -15,7 +15,7 @@ An Alfred-workflow for mpv &amp; mpv-bilibili
 ##Install
 - **Downloads & Import**<br />  
 1.[Downlaod the "mpv.alfredworkflow".](https://github.com/JackMcKing/Alfred_WF--mpv-mpv-bilibili/blob/master/mpv.alfredworkflow?raw=true)<br />
-2.Double click it to import.<br /><br /><br /> 
+2.Double click it to import.<br />
  
 - **Set up**<br />  
 1.Open the "Terminal Command" wich is connected by the "down".<br />
