@@ -13,15 +13,16 @@ An Alfred-workflow for mpv &amp; mpv-bilibili
 7.[you-get](https://github.com/search?utf8=%E2%9C%93&q=you-get)<br />
 
 ##Install
- ###Downloads & Import
+###Downloads & Import<br />
 1.[Downlaod the "mpv.alfredworkflow".](https://github.com/JackMcKing/Alfred_WF--mpv-mpv-bilibili/blob/master/mpv.alfredworkflow?raw=true)<br />
 2.Double click it to import.<br />
  
- ###Set up
+###Set up<br />
 1.Open the "Terminal Command" wich is connected by the "down".<br />
-2.Change the "[你自己的用户名]" to your username.
+2.Change the "[你自己的用户名]" to your username.<br />
 3.open your terminal.And input this line:<br />
->mkdir ~/downloads/youget<br />
+>mkdir ~/downloads/youget  
+
 4.(If you want)Fix the "youget" folder on the dock.
 
 ##TO USE
