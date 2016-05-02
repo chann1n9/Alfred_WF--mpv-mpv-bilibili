@@ -28,6 +28,7 @@ An Alfred-workflow for mpv &amp; mpv-bilibili
 ##TO USE
 
 1.mpv "The Video URL"<br /><br />
+![mpv](https://github.com/JackMcKing/Alfred_WF--mpv-mpv-bilibili/blob/master/img/mpv.png?raw=true)<br />
 2.mpb "The Bilibili URL"<br /><br />
 3.mpb av "The Bilibili AV number"<br /><br />
 4.down "The Video URL"<br />
