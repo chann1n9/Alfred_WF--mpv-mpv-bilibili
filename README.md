@@ -27,14 +27,14 @@ An Alfred-workflow for mpv &amp; mpv-bilibili
 
 ##TO USE
   
-###1.mpv "The Video URL"<br /><br />
+###1.mpv "The Video URL"<br />
 ![mpv](https://github.com/JackMcKing/Alfred_WF--mpv-mpv-bilibili/blob/master/img/mpv.png?raw=true)  ![mpvv](https://github.com/JackMcKing/Alfred_WF--mpv-mpv-bilibili/blob/master/img/mpvv.png?raw=true)
 ----------------------------------
-###2.mpb "The Bilibili URL"<br /><br />
+###2.mpb "The Bilibili URL"<br />
 ![bili](https://github.com/JackMcKing/Alfred_WF--mpv-mpv-bilibili/blob/master/img/bili.png?raw=true)
 ![mpb](https://github.com/JackMcKing/Alfred_WF--mpv-mpv-bilibili/blob/master/img/mpb.png?raw=true)
 ----------------------------------
-###3.mpb av "The Bilibili AV number"<br /><br />
+###3.mpb av "The Bilibili AV number"<br />
 ![mpbav](https://github.com/JackMcKing/Alfred_WF--mpv-mpv-bilibili/blob/master/img/mpbav.png?raw=true)
 ![mpbavv](https://github.com/JackMcKing/Alfred_WF--mpv-mpv-bilibili/blob/master/img/mpbavv.png?raw=true)
 ----------------------------------
