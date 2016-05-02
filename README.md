@@ -26,9 +26,7 @@ An Alfred-workflow for mpv &amp; mpv-bilibili
 4.(If you want)Fix the "youget" folder on the dock.
 
 ##TO USE
-----------------------------------
-
-<<<<<<< Updated upstream
+  
 1.mpv "The Video URL"<br /><br />
 ![mpv](https://github.com/JackMcKing/Alfred_WF--mpv-mpv-bilibili/blob/master/img/mpv.png?raw=true)<br />
 2.mpb "The Bilibili URL"<br /><br />
