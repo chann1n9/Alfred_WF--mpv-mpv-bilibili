@@ -23,16 +23,10 @@ An Alfred-workflow for mpv &amp; mpv-bilibili
 3.open your terminal.And input this line:<br />
 >mkdir ~/downloads/youget  
 
-4.(If you want)Fix the "youget" folder on the dock.
+ 4.(If you want)Fix the "youget" folder on the dock.
 
 ##TO USE
   
-1.mpv "The Video URL"<br /><br />
-![mpv](https://github.com/JackMcKing/Alfred_WF--mpv-mpv-bilibili/blob/master/img/mpv.png?raw=true)<br />
-2.mpb "The Bilibili URL"<br /><br />
-3.mpb av "The Bilibili AV number"<br /><br />
-4.down "The Video URL"<br />
-=======
 ###1.mpv "The Video URL"<br /><br />
 ![mpv](https://github.com/JackMcKing/Alfred_WF--mpv-mpv-bilibili/blob/master/img/mpv.png?raw=true)  ![mpvv](https://github.com/JackMcKing/Alfred_WF--mpv-mpv-bilibili/blob/master/img/mpvv.png?raw=true)
 ----------------------------------
@@ -48,4 +42,4 @@ An Alfred-workflow for mpv &amp; mpv-bilibili
 ![down1](https://github.com/JackMcKing/Alfred_WF--mpv-mpv-bilibili/blob/master/img/down.png?raw=true)
 ![down2](https://github.com/JackMcKing/Alfred_WF--mpv-mpv-bilibili/blob/master/img/down1.png?raw=true)
 ![down3](https://github.com/JackMcKing/Alfred_WF--mpv-mpv-bilibili/blob/master/img/dwon2.png?raw=true)
->>>>>>> Stashed changes
+
